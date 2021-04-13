@@ -13,7 +13,6 @@ Website to sign up teachers and students.
 App to connect teachers and students.
 👷 How to run
 # Clone Repository
-$ git clone https://github.com/RafaelGoulartB/Proffy.git
 📦 Run API
 # Go to server folder
 $ cd Proffy/server
